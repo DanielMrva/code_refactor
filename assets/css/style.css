@@ -1,3 +1,4 @@
+/* unversal selector */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -19,7 +20,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* modifies color in Horiseon */
 header h1 .seo {
     color: #d9dcd6;
 }
