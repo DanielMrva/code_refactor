@@ -1,7 +1,7 @@
 # code_refactor
 Code refactor of Horiseon website.
 
-![Horiseon Website](./assets/images/screen-caputre.png)
+![Horiseon Website](/assets/images/screen-caputre.png)
 
 ## Basic Features
 This website includes several images evoking the services of Horiseon including Search Engine Optimization, Online Reputation Management, and Social Media Marketing.
